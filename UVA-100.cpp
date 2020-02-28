@@ -15,7 +15,7 @@ int main()
 }
 void maxCount(int a, int b)
 {
-    cout<< a<<" "<<b<<" ";
+    cout<< a<<" "<<b <<" ";
     if(a>b)
     {
         swap(a, b);
